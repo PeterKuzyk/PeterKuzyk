@@ -1,32 +1,56 @@
 ## Hi there 👋
 
-I'm a passionate **QA Automation Engineer** with experience in building reliable, scalable, and maintainable test suites.
+# Hello, I'm [Your Full Name] 👋
 
-### 🔧 Tech & Tools I Work With
-- 🧪 **Testing:** Cypress, Mocha, Selenium Webdriver
-- 🧠 **Languages:** JavaScript, TypeScript, Java
-- ⚙️ **CI/CD:** GitHub Actions, Jenkins
-- 🗂️ **Version Control:** Git, GitHub, Bitbucket
-- 🎨 **Collaboration:** Agile-Scrum, Figma, Zephyr
+I'm a dedicated **QA Automation Engineer** with a strong background in building reliable, scalable test automation frameworks and driving quality across Agile development teams.
 
-### 👨‍🏫 Mentorship & Knowledge Sharing
-- Actively mentoring new testers in **Cypress automation**
-- Created **custom cheat sheets** for Cypress (50+ methods!)
-- Explain complex topics like **iframe testing, intercepts, session management**, and **parallel execution**
+---
 
-### 📈 Currently Working On:
-- Building a **robust E2E automation strategy**
-- Improving test efficiency through **custom commands** and **modular test architecture**
-- Integrating test pipelines into **CI/CD workflows**
+## 💼 Professional Summary
 
-### 🌱 Learning & Exploring:
-- Advanced **Test Orchestration**
-- **GitHub Achievements** & Automation Reporting (Mochawesome)
-- Zen Garden design in spare time 🌿
+- 🔍 Specializing in **web application testing** using Cypress, Playwright, and Selenium
+- 🧪 Expert in writing clean, maintainable automation code in **JavaScript, TypeScript, and Java**
+- 🔄 Experienced in **CI/CD integration** using GitHub Actions, Jenkins, and Bitbucket Pipelines
+- 📊 Focused on test reliability, modular design, and reducing flakiness in large test suites
 
-### 📫 How to Reach Me:
+---
+
+## 🧠 Skills & Technologies
+
+**Testing Tools:**  
+Selenium, Cypress, Playwright, Appium, Mocha
+
+**Languages & Frameworks:**  
+JavaScript, TypeScript, Java, Node.js
+
+**Version Control & CI/CD:**  
+Git, GitHub, Bitbucket, GitHub Actions, Jenkins
+
+**Test Management & Collaboration:**  
+Zephyr, Figma, Agile-Scrum, REST API Testing
+
+---
+
+## 🧑‍🏫 Mentorship & Leadership
+
+- Mentoring junior QA engineers in Cypress and automation best practices
+- Developed comprehensive **Cypress cheat sheets** (50+ methods with examples)
+- Advocate for **clean code**, **custom commands**, and robust test architecture
+- Strong communicator, focused on collaboration and continuous improvement
+
+---
+
+## 📈 Currently Exploring
+
+- ⚙️ Advanced test orchestration & performance profiling
+- 📦 Cypress plugins & mock server integration
+- 🪄 UI test optimization for parallel execution and CI pipelines
+
+---
+
+## 📬 Let's Connect
 - Email: [pete.kuzyk@gmail.com]
-- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/peter-kuzyk/)]
-- GitHub: [PeterKuzyk]
+- LinkedIn: [https://www.linkedin.com/in/peter-kuzyk/]
+- GitHub: [[PeterKuzyk](https://github.com/PeterKuzyk)]
 
 ---
