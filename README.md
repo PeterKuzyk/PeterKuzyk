@@ -3,7 +3,7 @@
 I'm a passionate **QA Automation Engineer** with experience in building reliable, scalable, and maintainable test suites.
 
 ### 🔧 Tech & Tools I Work With
-- 🧪 **Testing:** Cypress, Playwright, Jest, Mocha
+- 🧪 **Testing:** Cypress, Mocha, Selenium Webdriver
 - 🧠 **Languages:** JavaScript, TypeScript, Java
 - ⚙️ **CI/CD:** GitHub Actions, Jenkins
 - 🗂️ **Version Control:** Git, GitHub, Bitbucket
@@ -25,10 +25,8 @@ I'm a passionate **QA Automation Engineer** with experience in building reliable
 - Zen Garden design in spare time 🌿
 
 ### 📫 How to Reach Me:
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub username]
+- Email: [pete.kuzyk@gmail.com]
+- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/peter-kuzyk/)]
+- GitHub: [PeterKuzyk]
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
