@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hello, I'm [Your Full Name] 👋
+# Hello, I'm [Peter Kuzyk] 👋
 
 I'm a dedicated **QA Automation Engineer** with a strong background in building reliable, scalable test automation frameworks and driving quality across Agile development teams.
 
