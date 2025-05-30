@@ -1,19 +1,34 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe)
+I'm a passionate **QA Automation Engineer** with experience in building reliable, scalable, and maintainable test suites.
 
-<!--
-**PeterKuzyk/PeterKuzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech & Tools I Work With
+- 🧪 **Testing:** Cypress, Playwright, Jest, Mocha
+- 🧠 **Languages:** JavaScript, TypeScript, Java
+- ⚙️ **CI/CD:** GitHub Actions, Jenkins
+- 🗂️ **Version Control:** Git, GitHub, Bitbucket
+- 🎨 **Collaboration:** Agile-Scrum, Figma, Zephyr
 
-Here are some ideas to get you started:
+### 👨‍🏫 Mentorship & Knowledge Sharing
+- Actively mentoring new testers in **Cypress automation**
+- Created **custom cheat sheets** for Cypress (50+ methods!)
+- Explain complex topics like **iframe testing, intercepts, session management**, and **parallel execution**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Currently Working On:
+- Building a **robust E2E automation strategy**
+- Improving test efficiency through **custom commands** and **modular test architecture**
+- Integrating test pipelines into **CI/CD workflows**
+
+### 🌱 Learning & Exploring:
+- Advanced **Test Orchestration**
+- **GitHub Achievements** & Automation Reporting (Mochawesome)
+- Zen Garden design in spare time 🌿
+
+### 📫 How to Reach Me:
+- Email: [your.email@example.com]
+- LinkedIn: [Your LinkedIn URL]
+- GitHub: [Your GitHub username]
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
