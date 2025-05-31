@@ -50,8 +50,8 @@ Zephyr, Figma, Agile-Scrum, REST API Testing
 ---
 
 ## 📬 Let's Connect
-- Email: [pete.kuzyk@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/peter-kuzyk/]
-- GitHub: [[PeterKuzyk](https://github.com/PeterKuzyk)]
+- Email: pete.kuzyk@gmail.com
+- LinkedIn: https://www.linkedin.com/in/peter-kuzyk/
+- GitHub: https://github.com/PeterKuzyk
 
 ---
