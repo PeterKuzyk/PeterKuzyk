@@ -43,8 +43,8 @@ Zephyr, Figma, Agile-Scrum, REST API Testing
 - ⚙️ Advanced test orchestration & performance profiling
 - 📦 Cypress plugins & mock server integration
 - 🪄 UI test optimization for parallel execution and CI pipelines
-- 🤖 Exploring advanced REST API automation and AI-driven model testing techniques using Java to improve test intelligence and efficiency.
-- ✨ Leveraging GitHub Copilot to accelerate test development, reduce boilerplate, and enhance code quality through AI-powered suggestions
+- 🤖 Evolving test intelligence: Diving into advanced REST API automation and AI-driven model testing with Java to enhance efficiency and insight.
+- ✨ Accelerating test development: Leveraging GitHub Copilot for smarter code suggestions, reducing boilerplate, and improving overall code quality.
 
 
 ---
