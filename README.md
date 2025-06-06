@@ -16,7 +16,7 @@ I'm a dedicated **QA Automation Engineer** with a strong background in building 
 ## 🧠 Skills & Technologies
 
 **Testing Tools:**  
-Selenium, Cypress, Playwright, Appium, Mocha
+Selenium, Cypress, Appium, Mocha
 
 **Languages & Frameworks:**  
 JavaScript, TypeScript, Java, Node.js
