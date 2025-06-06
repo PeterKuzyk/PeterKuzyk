@@ -57,5 +57,6 @@ Zephyr, Figma, Agile-Scrum, REST API Testing
 ---
 
 ### 📊 GitHub Stats
-!(https://github-readme-stats.vercel.app/api?username=peterKuzyk_icons=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=peterKuzyk=default)](https://git.io/streak-stats)
+
 
